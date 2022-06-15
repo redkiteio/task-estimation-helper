@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-estimation-helper/static/css/main.9b74acdb.css",
+    "main.js": "/task-estimation-helper/static/js/main.06f4dbeb.js",
+    "index.html": "/task-estimation-helper/index.html",
+    "main.9b74acdb.css.map": "/task-estimation-helper/static/css/main.9b74acdb.css.map",
+    "main.06f4dbeb.js.map": "/task-estimation-helper/static/js/main.06f4dbeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b74acdb.css",
+    "static/js/main.06f4dbeb.js"
+  ]
+}
